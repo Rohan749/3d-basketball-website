@@ -28,11 +28,11 @@ const About = () => {
                 <div className='box'>DISCOVER OUR JOURNEY</div>
                 <div className='box header pb-10'>ABOUT US</div>
                 <div className='box'>
-                    Since our October 2022 launch, we've become the #1 sports game on the Meta Quest Store, uniting players worldwide.
+                    Since our October 2022 launch, we have become the #1 sports game on the Meta Quest Store, uniting players worldwide.
                     <br />
                     <br />
                     <br />
-                    Backed by over $8M from top investors, including the NBA, we're more than a game—we're a global community.
+                    Backed by over $8M from top investors, including the NBA, we are more than a game. We are a global community!
                     <br />
                     <br />
                     <br />

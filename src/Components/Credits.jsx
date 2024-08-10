@@ -8,7 +8,7 @@ const Credits = () => {
                 <div>CREATORS & CONTRIBUTORS</div>
                 <div className='header pb-10'>CREDITS</div>
                 <div>
-                  3D Asset: "Spalding Basket Ball" (https://skfb.ly/6yO7U) by Bruce Lima is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+                  3D Asset: Spalding Basket Ball (https://skfb.ly/6yO7U) by Bruce Lima is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
                      </div>
             </div>
 
@@ -17,14 +17,3 @@ const Credits = () => {
 }
 
 export default Credits
-
-
-
-
-
-
-
-
-
-
-// "Spalding Basket Ball" (https://skfb.ly/6yO7U) by Bruce Lima is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
