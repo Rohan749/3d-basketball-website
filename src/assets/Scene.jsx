@@ -14,7 +14,7 @@ import gsap from "gsap"
 import ScrollTrigger from 'gsap/ScrollTrigger'
 
 export function Model(props) {
-  const { nodes, materials } = useGLTF('/scene.gltf')
+  const { nodes, materials } = useGLTF('./scene.gltf')
 
   let camera = useThree((state) => state.camera)
   let scene = useThree((state) => state.scene)
