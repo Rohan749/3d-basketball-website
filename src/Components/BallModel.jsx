@@ -1,7 +1,7 @@
-import { Model } from '@/assets/Scene'
-import { Environment, OrbitControls } from '@react-three/drei'
-import { Canvas } from '@react-three/fiber'
-import React from 'react'
+import { Model } from "../assets/Scene"
+import { Environment, OrbitControls } from "@react-three/drei"
+import { Canvas } from "@react-three/fiber"
+import React from "react"
 
 const BallModel = () => {
   return (

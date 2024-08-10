@@ -1,16 +1,16 @@
 "use client"
 
-import About from "@/Components/About";
-import BallModel from "@/Components/BallModel";
-import CommonBg from "@/Components/CommonBg";
-import Credits from "@/Components/Credits";
-import Download from "@/Components/Download";
-import Features from "@/Components/Features";
-import Hero from "@/Components/Hero";
+import About from "../Components/About";
+import BallModel from "../Components/BallModel";
+import CommonBg from "../Components/CommonBg";
+import Credits from "../Components/Credits";
+import Download from "../Components/Download";
+import Features from "../Components/Features";
+import Hero from "../Components/Hero";
 import Image from "next/image";
 import gsap from "gsap"
 import ScrollTrigger from 'gsap/ScrollTrigger'
-import Header from "@/Components/Header";
+import Header from "../Components/Header";
 import { useGSAP } from "@gsap/react";
 
 export default function Home() {

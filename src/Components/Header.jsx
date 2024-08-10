@@ -1,6 +1,6 @@
-import { useGSAP } from '@gsap/react'
-import Hamburger from 'hamburger-react'
-import React, { useState } from 'react'
+import { useGSAP } from "@gsap/react"
+import Hamburger from "hamburger-react"
+import React, { useState } from "react"
 import gsap from "gsap"
 
 const Header = () => {
