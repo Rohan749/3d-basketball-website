@@ -11,9 +11,8 @@ const Download = () => {
                         <iframe
                             width="100%"
                             height="400"
-                            src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Replace with your video URL
+                            src="https://www.youtube.com/embed/xnZu7PODF10&t=2s" // Replace with your video URL
                             title="YouTube video player"
-                            frameBorder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowFullScreen
                         ></iframe>
